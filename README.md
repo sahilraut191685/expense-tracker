@@ -18,7 +18,9 @@ Track your spending, analyze your habits, and stay on top of your budget effortl
 
 ## 🧩 Tech Stack
 
-- **Frontend:**  HTML-CSS-JS  
+- **Frontend:**  HTML
+-                CSS
+-                JAVASCRIPT  
  
 
 ---
