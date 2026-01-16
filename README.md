@@ -7,7 +7,7 @@ Track your spending, analyze your habits, and stay on top of your budget effortl
 
 ## 🚀 Features
 
-- 📅 Add, edit, and delete expenses/income
+- 📅 Add, edit, and delete daily expenses
 - 📊 View daily, weekly, and monthly summaries
 - 🔍 Filter transactions by category or date
 - 💾 Persistent storage using local database / Firebase
